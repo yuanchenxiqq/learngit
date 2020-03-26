@@ -1,2 +1,6 @@
 # 忽略explain.txt
 explain.txt 
+
+#忽略test目录
+# /test/*.txt 
+/test/
